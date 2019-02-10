@@ -15,6 +15,6 @@ Write this command:
 
 
 Note:
-'a' is in the strating name of the file and 'b' is the name in which you want to convert your file.
+'a' is in the starting name of the file and 'b' is the name in which you want to convert your file.
 
 That's all for today. Thank you :) Have a nice evening !
